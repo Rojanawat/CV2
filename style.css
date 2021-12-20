@@ -1,6 +1,12 @@
 body{
   background-color: #FAEDC6;
+}
+.divcl{
+  background-color: #FABB51;
+}
 
+#C1{
+  color: #3E8E7E;
 }
 
 hr{
@@ -18,7 +24,8 @@ img{
 
 h1{
 
-  color: #3E8E7E;
+  color: #3E8E7E; 
+  
 }
 
 h3{
