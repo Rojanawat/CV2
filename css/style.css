@@ -1,0 +1,38 @@
+body{
+  background-color: #FAEDC6;
+}
+.divcl{
+  background-color: #f3e1aa;
+}
+
+#C1{
+  color: #3E8E7E;
+}
+
+hr{
+    border-style: none; 
+    border-top-style: dotted ;
+    border-color: rgb(65, 65, 65);
+    border-width: 10px;
+    height: 50px;
+    width: 15%;      
+}
+
+img{
+  height: 200px;
+}
+
+h1{
+
+  color: #3E8E7E; 
+  
+}
+
+h3{
+
+  color: #3E8E7E;
+}
+
+p{
+  color: #3E8E7E;
+}
